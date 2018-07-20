@@ -13,7 +13,7 @@ public class Test {
 		list.add(new Person(5L,"aa",5));
 		list.add(new Person(6L,"aa",6));
 		list.add(new Person(7L,"aa",7));
-		list.add(new Person(8L,"aa",8));
+		list.add(new Person(10L,"aa",8));
 		list.stream().forEach(System.out::println);
 		
 	}
