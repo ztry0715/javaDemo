@@ -14,7 +14,7 @@ public class Test {
 		list.add(new Person(6L,"aa",6));
 		list.add(new Person(7L,"aa",7));
 		list.add(new Person(7L,"aa",8));
-		list.add(new Person(9L,"bb",9));
+		list.add(new Person(9L,"GG",9));
 		list.stream().forEach(System.out::println);
 		
 	}
